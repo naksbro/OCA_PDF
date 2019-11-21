@@ -2,7 +2,7 @@ package ocaPDFQuestions;
 
 import java.util.ArrayList;
 
-public class Q126 {
+public class Q126 { // D does not compile
 	public static void main(String[] args) {
 		ArrayList<Animal> a = new ArrayList<>();
 		a.add(new Tiger());

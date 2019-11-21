@@ -1,6 +1,6 @@
 package ocaPDFQuestions;
 
-public class Q106 {
+public class Q106 { // E NullPointerException at runtime
 	public static void main(String[] args) {
 		Q106_2[] students = new Q106_2[3];
 		students[1] = new Q106_2("Richard");

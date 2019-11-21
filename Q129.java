@@ -5,9 +5,9 @@ public class Q129 { // C Welcome Log 2:1
 		int x = 1;
 		int y = 0;
 		if(x++ > ++y) {
-			System.out.print("Hello");
+			System.out.print("Hello ");
 		}else {
-			System.out.print("Welcome");
+			System.out.print("Welcome ");
 		}
 		System.out.println("Log "+x+":"+y);
 	}
